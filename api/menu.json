@@ -1,0 +1,126 @@
+[{
+		"name": "Home",
+		"link": "",
+		"image": "Icons.dashboard"
+	},
+	{
+		"name": "Current Affairs",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Previous Year Questions",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Practice Sets",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "General Knowledge",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "GI & Reasoning",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "History",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Geography",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Chemistry",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Physics",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Biology",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Indian Polity & Constitution",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Indian Economy",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Math",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Computer & Internet",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Admit Card",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Results",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Others",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Privacy Policy",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Disclaimer",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Copyright Policy",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Affiliate Disclosure",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "About Us",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Contact Us",
+		"link": "",
+		"image": "Icons.article"
+	},
+	{
+		"name": "Give us 5 Star",
+		"link": "",
+		"image": "Icons.article"
+	}
+]
